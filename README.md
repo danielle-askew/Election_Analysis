@@ -28,7 +28,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes. 
 
-![out-put-file](election_analysis/resources/vote_count.png)
+![Vote Count](Resources/Vote_Count.png)
 
 ## Challenge Summary 
 In this challenge we have created an effective and flexible script. The script automatically calculates the total votes, total votes by county, the votes by the candidate and the winning candidate as well as the percentages won. These categories could work for almost any election and we can easily modify it to fit other’s needs. For example, we could change the script to look at city or state elections. We could even look at voter turnout by county (or other municipality) to create more dynamic polling data.
