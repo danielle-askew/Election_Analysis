@@ -8,7 +8,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 2. Get the complete list of the candidates who received votes. 
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote. 
+5. Determine the winner of the election based on popular vote.
+7. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+8. Calculate which county had the largest number of votes
 
 ## Resources
 - Data Source: election_analysis.csv
@@ -28,9 +30,9 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes. 
 - The Counties were:
-    -Arapahoe
-    -Denver
-    -Jefferson
+    - Arapahoe
+    - Denver
+    - Jefferson
 - The County results were:
     -Jefferson received "10.5%" of the votes and a total of "38,855" votes in the county.
     -Denver received "82.8%" of the votes and a total of "306,055" votes in the county. 
@@ -38,7 +40,7 @@ The analysis of the election show that:
  - County with the most votes was:
     -Devner County which received "82.8%" of the votes and a total of "306,055" votes for the county.
 
-![Vote Count](Resources/Vote_Count.png)
+![Election_Results](Resources/Largest_County_Turnout.png)
 
 ## Challenge Summary 
-In this challenge we have created an effective and flexible script. The script automatically calculates the total votes, total votes by county, the votes by the candidate and the winning candidate as well as the percentages won. These categories could work for almost any election and we can easily modify it to fit other’s needs. For example, we could change the script to look at city or state elections. We could even look at voter turnout by county (or other municipality) to create more dynamic polling data.
+In this challenge we have created an effective and flexible script. The script automatically calculates the total votes, total votes by county, the votes by the candidate and the winning candidate as well as the percentages won. These categories could work for almost any election and we can easily modify it to fit other’s needs. For example, we could change the script from county to look at city or state elections. We could even look at voter demographics by adding factors such age, ethinicity, and sex. This demographic inforamiton can give us more dynamic and usable voting data. 
