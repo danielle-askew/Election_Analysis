@@ -4,6 +4,7 @@
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 ## Deliverables 
+
 1. Calculate the total number of votes cast. 
 2. Get the complete list of the candidates who received votes. 
 3. Calculate the total number of votes each candidate received.
@@ -34,13 +35,14 @@ The analysis of the election show that:
     - Denver
     - Jefferson
 - The County results were:
-    -Jefferson received "10.5%" of the votes and a total of "38,855" votes in the county.
-    -Denver received "82.8%" of the votes and a total of "306,055" votes in the county. 
-    -Arapahoe received "6.7%" of the votes and a total of "24,801" votes in the county.
- - County with the most votes was:
-    -Devner County which received "82.8%" of the votes and a total of "306,055" votes for the county.
+    - Jefferson received "10.5%" of the votes and a total of "38,855" votes in the county.
+    - Denver received "82.8%" of the votes and a total of "306,055" votes in the county. 
+    - Arapahoe received "6.7%" of the votes and a total of "24,801" votes in the county.
+- County with the most votes was:
+    - Devner County which received "82.8%" of the votes and a total of "306,055" votes for the county.
 
 ![Election_Results](Resources/Largest_County_Turnout.png)
 
 ## Challenge Summary 
-In this challenge we have created an effective and flexible script. The script automatically calculates the total votes, total votes by county, the votes by the candidate and the winning candidate as well as the percentages won. These categories could work for almost any election and we can easily modify it to fit other’s needs. For example, we could change the script from county to look at city or state elections. We could even look at voter demographics by adding factors such age, ethinicity, and sex. This demographic inforamiton can give us more dynamic and usable voting data. 
+
+In this challenge we have created an effective and flexible script. The script automatically calculates the total votes, total votes by county, the votes by the candidate and the winning candidate as well as the percentages won. These categories could work for almost any election and we can easily modify it to fit other’s needs. For example, we could change the script from county to look at city or state elections. We could even look at voter demographics by adding factors such age, ethinicity, and sex. This demographic informaiton can give us more dynamic and usable voting data. 
